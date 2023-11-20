@@ -1,0 +1,2 @@
+# Excludes CMake (Love CMake :]) builds
+cmake-build*/
